@@ -1,0 +1,26 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 13.11.2014 13:37:44
+
+mtllib Roads_CrossRoad.mtl
+
+#
+# object Box002
+#
+
+v  -5.000000 0.000000 5.000000
+v  5.000000 0.000000 5.000000
+v  5.000000 0.000000 -5.000000
+v  -5.000000 0.000000 -5.000000
+# 4 vertices
+
+vt 0.754362 0.747002 0.000000
+vt 0.996311 0.747002 0.000000
+vt 0.996311 0.988951 0.000000
+vt 0.754362 0.988951 0.000000
+# 4 texture coords
+
+g Box002
+usemtl Material__28
+f 1/1 2/2 3/3 4/4 
+# 1 polygons
+

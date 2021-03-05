@@ -1,0 +1,10 @@
+Thanks for purchase!
+
+
+ilitia Lowpoly Buildings & Roads Pack
+
+v 1.0
+
+Inside the folder "ilitiaGames - Buildings & Roads Pack/Prefabs/Bases" you can find the base modular prefabs, use and combine them to make buildings.
+
+Inside the folder "ilitiaGames - Buildings & Roads Pack/Textures&Materials" there is a main material "_BuildingsRoads" used by the current prefabs.

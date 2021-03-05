@@ -1,0 +1,11 @@
+New[[:space:]]Unity[[:space:]]Project[[:space:]](4).sln filter=lfs diff=lfs merge=lfs -text
+New[[:space:]]Unity[[:space:]]Project[[:space:]](4).userprefs filter=lfs diff=lfs merge=lfs -text
+New[[:space:]]Unity[[:space:]]Project[[:space:]](4).v12.suo filter=lfs diff=lfs merge=lfs -text
+Assembly-CSharp-firstpass.csproj filter=lfs diff=lfs merge=lfs -text
+fullApp.apk filter=lfs diff=lfs merge=lfs -text
+UnityCrashHandler64.exe filter=lfs diff=lfs merge=lfs -text
+UnityPlayer.dll filter=lfs diff=lfs merge=lfs -text
+app.exe filter=lfs diff=lfs merge=lfs -text
+Assembly-CSharp.csproj filter=lfs diff=lfs merge=lfs -text
+Assembly-CSharp-Editor.csproj filter=lfs diff=lfs merge=lfs -text
+Assembly-CSharp-Editor-firstpass.csproj filter=lfs diff=lfs merge=lfs -text
